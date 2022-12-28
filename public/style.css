@@ -1,0 +1,102 @@
+body{
+    clear:both;
+    padding:0;
+    margin:0;
+    background:#2596be;
+    font-family:sans-serif;
+  }
+  
+  .contenedor{
+    display:inline-block;
+    position:absolute;
+    width:100%;
+    height:100%;
+  }
+  .contenedor-logo{
+    display:inline-block;
+    position:relative;
+    width:48%;
+    height:100%;
+    margin:0;
+    padding:0;
+  }
+  img{
+    width:420px;
+    height:438px;
+    over-flow:hidden;
+  }
+  .logo{
+    display:inline-block;
+    width:100%;
+    height:10%;
+  }
+  p{
+    text-align:center;
+    font-weight: bold;
+  }
+  .contenedor-login{
+    display:inline-block;
+    float:right;
+    width:48%;
+    height:100%;
+    margin:0;
+    padding:0;
+    border:solid;
+    background:white;
+    
+  }
+  .titulo{
+    display:inline-block;
+    width:100%;
+    height:15%;
+  }
+  h4{
+    text-align:center;
+    font-weight: bold;
+  }
+  .loginform{
+    display:inline-block;
+    width:100%;
+    height:70%;
+  }
+  form{
+    position:relative;
+    display:inline-block;
+    height:100%;
+    width:100%;
+  }
+  label{
+    display:block;
+    margin:10px;
+    
+  }
+  input{
+    display:block;
+    margin:0% 10%; 
+    width:80%;
+  }
+  .recuperar{
+    display:block;
+    float:right;
+    margin:10px;
+  }
+  
+  input[type="submit"]{
+    width:100px;
+    height:20px;
+    display:block;
+    margin:20% 30%;
+   
+  }
+  
+  .registrarme{
+    display:inline-block;
+    width:100%;
+    height:15%;
+  }
+  #registrarme{
+    display:block;
+    text-align:center;
+    margin:10px;
+  }
+  
